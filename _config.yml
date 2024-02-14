@@ -16,22 +16,17 @@ timezone: Asia/Seoul
 
 title: Subin's blog # the main title
 
-<<<<<<< HEAD
-tagline: AI engnieer # it will display as the sub-title
-=======
+
 tagline: AI engineer # it will display as the sub-title
->>>>>>> origin/master
+
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-<<<<<<< HEAD
-url: 'https://ssssssea.github.io'
-=======
+
 url: "https://ssssssea.github.io"
->>>>>>> origin/master
 
 github:
   username: ssssssea # change to your github username
